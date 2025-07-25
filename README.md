@@ -14,8 +14,8 @@ A personal portfolio website built using **HTML**, **CSS**, and **JavaScript**, 
 - JavaScript
 
  🖥️ Live Preview
-🌐 [Visit the Live Site](https://yourusername.github.io/portfolio-website/)  
-📂 [View Code on GitHub](https://github.com/yourusername/portfolio-website)
+🌐 [Visit the Live Site](https://priyankajonnalagadda.github.io/portfolio-website/)  
+📂 [View Code on GitHub](https://github.com/priyankajonnalagadda/portfolio-website)
 
  📁 Project Structure
 portfolio-website/
